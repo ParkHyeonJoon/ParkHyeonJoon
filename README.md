@@ -9,8 +9,9 @@
  
 ## 📊 GitHub 통계
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ParkHyeonJoon&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" alt="ParkHyeonJoon's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHyeonJoon&bg_color=00000000&layout=compact&theme=vue" alt="Top Langs">
+	
+![ParkHyeonJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkHyeonJoon&show_icons=true&theme=radical)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHyeonJoon&layout=compact&theme=radical)
 </div>
 
 ## 💻 기술 스택
